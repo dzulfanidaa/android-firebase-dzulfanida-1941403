@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tombol</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="login_state"></string>
+    <string name="login_home">Sudah Login</string>
+    <string name="auth_failed">Otentikasi Gagal</string>
+</resources>
